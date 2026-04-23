@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-04-23T10:12:24.086Z",
+  "buildTime": "2026-04-23T10:44:14.053Z",
   "builtWith": {
     "toolchain": "1.0.0-alpha.72",
     "types": "1.0.0-alpha.72"
@@ -279,6 +279,27 @@
         }
       ],
       "id": "QiScans"
+    },
+    {
+      "name": "Roliascan",
+      "description": "Extension that pulls content from roliascan.com.",
+      "version": "1.0.0-alpha.1",
+      "icon": "icon.png",
+      "language": "en",
+      "contentRating": "SAFE",
+      "capabilities": [
+        4,
+        64,
+        1,
+        16
+      ],
+      "badges": [],
+      "developers": [
+        {
+          "name": "Saw_6"
+        }
+      ],
+      "id": "Roliascan"
     },
     {
       "name": "Webtoon",
